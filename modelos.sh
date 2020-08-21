@@ -1,0 +1,10 @@
+php artisan krlove:generate:model Usuario --table-name=usuario
+php artisan krlove:generate:model Detalleusuario --table-name=detalleusuario
+php artisan krlove:generate:model Empresa --table-name=empresa
+php artisan krlove:generate:model Saldo --table-name=saldos
+php artisan krlove:generate:model Transaccione --table-name=transacciones
+php artisan krlove:generate:model Notificacion --table-name=notificacion
+php artisan krlove:generate:model Redes --table-name=redes
+php artisan krlove:generate:model Codes --table-name=codigos
+php artisan krlove:generate:model Log --table-name=log
+php artisan krlove:generate:model Catredes --table-name=catredes
